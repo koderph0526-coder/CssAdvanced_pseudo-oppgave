@@ -13,9 +13,9 @@ Lag en webside med følgende innhold [x]
 - H1 som beskriver emnet [x]
 - En ul med minst 5 elementer [x]
 - Et section element med 3 div elementer i, her valgte jeg å legge ul i en av dem [x]
-- En button med interaktiv handling []
+- En button med interaktiv handling [x]
 
-## Del 1: Pseudo-elementer (:: before og ::after) []
+## Del 1: Pseudo-elementer (:: before og ::after) [x]
 
 - Oppgave 1.1: Legg til en dekorativ linje før overskriften ved å bruke ::before. [x]
 - Oppgave 1.2: Legg til en stjerne etter hvert listeelement ved å bruke ::after. [x]
